@@ -1,0 +1,4 @@
+{
+  "version": 1,
+  "description": "Snapshot of a team's constraint map: the five-step work line with queue count and oldest-item age per step, the constraint marked, moves in play. Reads ./constraints.json; no server functions."
+}
