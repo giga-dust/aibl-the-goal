@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-10-19T08:30:00+02:00",
+  "team": "Product team",
+  "workStream": "Feature request to shipped",
+  "label": "sample data",
+  "constraint": "Decide",
+  "watchNumber": { "label": "Oldest item at Decide", "value": 31, "unit": "days", "delta": "+4 vs last week" },
+  "steps": [
+    { "name": "Produce", "open": 6, "oldestDays": 6, "medianWaitDays": 3 },
+    { "name": "Context", "open": 5, "oldestDays": 5, "medianWaitDays": 2 },
+    { "name": "Decide", "open": 14, "oldestDays": 31, "medianWaitDays": 12 },
+    { "name": "Act", "open": 7, "oldestDays": 7, "medianWaitDays": 3 },
+    { "name": "Learn", "open": 4, "oldestDays": 12, "medianWaitDays": 9 }
+  ],
+  "moves": [
+    { "type": "Exploit", "what": "Fixed review slot Tue and Thu 14:00, items arrive with the checklist", "owner": "Dara", "by": "2026-10-23", "status": "in progress" },
+    { "type": "Subordinate", "what": "Cap Produce at 4 open drafts until Decide is under 8", "owner": "Ana", "by": "2026-10-21", "status": "proposed" },
+    { "type": "Elevate", "what": "Agent does first-pass triage and pre-fills the decision checklist", "owner": "Eli", "by": "2026-10-30", "status": "proposed" }
+  ],
+  "note": "Sample data from the aibl-the-goal kit. The Monday constraint brief rewrites this file."
+}

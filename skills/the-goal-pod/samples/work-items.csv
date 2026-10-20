@@ -1,0 +1,37 @@
+id,title,step,entered_step_on,created_on,owner
+FR-101,Export to CSV,Produce,2026-10-16,2026-10-10,Dara
+FR-102,SSO for partners,Produce,2026-10-13,2026-10-10,Ana
+FR-103,Bulk edit on table,Produce,2026-10-14,2026-10-09,Chen
+FR-104,Audit log retention,Produce,2026-10-14,2026-10-11,Eli
+FR-105,Slack digest v2,Produce,2026-10-17,2026-10-14,Ana
+FR-106,Pricing page test,Produce,2026-10-15,2026-09-30,Ana
+FR-107,Mobile offline mode,Context,2026-10-17,2026-10-13,Eli
+FR-108,Webhook retries,Context,2026-10-15,2026-10-12,Eli
+FR-109,Role templates,Context,2026-10-18,2026-10-09,Eli
+FR-110,Invoice PDF redesign,Context,2026-10-18,2026-09-28,Eli
+FR-111,Search filters,Context,2026-10-15,2026-10-12,Bo
+FR-112,Onboarding checklist,Decide,2026-10-15,2026-09-26,Dara
+FR-113,Data residency EU,Decide,2026-10-07,2026-09-22,Dara
+FR-114,Usage alerts,Decide,2026-09-29,2026-09-24,Eli
+FR-115,API rate limit headers,Decide,2026-09-29,2026-09-22,Dara
+FR-116,Dark mode,Decide,2026-09-28,2026-09-08,Dara
+FR-117,Comments on tasks,Decide,2026-10-05,2026-09-30,Dara
+FR-118,CSV import mapping,Decide,2026-09-28,2026-09-25,Dara
+FR-119,Trial extension flow,Decide,2026-10-01,2026-09-12,Eli
+FR-120,Notification settings,Decide,2026-09-22,2026-09-10,Eli
+FR-121,Team spaces,Decide,2026-09-28,2026-09-12,Eli
+FR-122,Keyboard shortcuts,Decide,2026-10-07,2026-09-28,Dara
+FR-123,Zapier triggers,Decide,2026-09-24,2026-09-15,Dara
+FR-124,Custom fields,Decide,2026-09-28,2026-09-17,Eli
+FR-125,Sandbox environment,Decide,2026-09-18,2026-09-06,Eli
+FR-126,Billing proration,Act,2026-10-16,2026-10-12,Ana
+FR-127,Shared views,Act,2026-10-14,2026-09-29,Bo
+FR-128,Status page widget,Act,2026-10-12,2026-09-30,Bo
+FR-129,SCIM provisioning,Act,2026-10-15,2026-09-30,Ana
+FR-130,Weekly email report,Act,2026-10-13,2026-10-09,Eli
+FR-131,Attachment previews,Act,2026-10-14,2026-10-02,Chen
+FR-132,Archive projects,Act,2026-10-13,2026-09-30,Eli
+FR-133,Timezone handling,Learn,2026-10-10,2026-09-20,Dara
+FR-134,Reporting API,Learn,2026-10-16,2026-10-12,Chen
+FR-135,Partner directory,Learn,2026-10-10,2026-10-06,Ana
+FR-136,Session timeout setting,Learn,2026-10-13,2026-09-23,Dara

@@ -41,7 +41,7 @@ Number to watch: age of oldest item at {step}: {d} days.
 Next: run five-focusing-steps on {step}.
 ```
 
-Save to `constraints/current.md` and append one row to `constraints/history.md` when running in a Pod. Write the same data to `frames/ConstraintLine/constraints.json` if the Frame folder exists.
+Save to `constraints/current.md` and append one row to `constraints/history.md` when running in a Pod. If the Pod has a `TheGoalDashboard/` folder, rewrite `TheGoalDashboard/data.json` in its existing shape (`steps[]` with `name`, `open`, `oldestDays`, `medianWaitDays`; `constraint`; `watchNumber` with `label`, `value`, `unit`, `delta`; `moves[]` with `type`, `what`, `owner`, `by`, `status`; `label` set to "sample data" when built on the sample files) and republish it with `dsbx frame publish /files/pod-<podId>/TheGoalDashboard/manifest.json`.
 
 ## Fallback: five questions
 

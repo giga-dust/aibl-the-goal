@@ -1,0 +1,4 @@
+{
+  "version": 1,
+  "description": "Pod banner for a The Goal Pod: the five-step work line with open items, oldest age and median wait per step, the constraint marked, the number to watch, moves in play. Renders ./data.json written by the Monday constraint brief. No server functions."
+}

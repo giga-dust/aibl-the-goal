@@ -29,7 +29,7 @@ This week's ask: {one decision or action for the lead}
 Watch: {second step if close}, {unmapped count if any}
 ```
 
-Save to `logs/YYYY-MM-DD-brief.md`, replace `constraints/current.md`, append a row to `constraints/history.md`, refresh `frames/ConstraintLine/constraints.json` if present.
+Save to `logs/YYYY-MM-DD-brief.md`, replace `constraints/current.md`, append a row to `constraints/history.md`, refresh `TheGoalDashboard/data.json` if present (same shape as the file, see `constraint-finder`) and republish the dashboard.
 
 ## Monthly mode (relocation review)
 
